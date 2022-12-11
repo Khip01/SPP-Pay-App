@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A AAKHIF ATHALLAH\\source\\repos\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj": {}
+    "C:\\Users\\A AAKHIF ATHALLAH\\Desktop\\SPP-Pay-App\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A AAKHIF ATHALLAH\\source\\repos\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj": {
+    "C:\\Users\\A AAKHIF ATHALLAH\\Desktop\\SPP-Pay-App\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A AAKHIF ATHALLAH\\source\\repos\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj",
+        "projectUniqueName": "C:\\Users\\A AAKHIF ATHALLAH\\Desktop\\SPP-Pay-App\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj",
         "projectName": "AplikasiPembayaranSpp2.0.0",
-        "projectPath": "C:\\Users\\A AAKHIF ATHALLAH\\source\\repos\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj",
+        "projectPath": "C:\\Users\\A AAKHIF ATHALLAH\\Desktop\\SPP-Pay-App\\AplikasiPembayaranSpp2.0.0\\AplikasiPembayaranSpp2.0.0.csproj",
         "packagesPath": "C:\\Users\\A AAKHIF ATHALLAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A AAKHIF ATHALLAH\\source\\repos\\AplikasiPembayaranSpp2.0.0\\obj\\",
+        "outputPath": "C:\\Users\\A AAKHIF ATHALLAH\\Desktop\\SPP-Pay-App\\AplikasiPembayaranSpp2.0.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
