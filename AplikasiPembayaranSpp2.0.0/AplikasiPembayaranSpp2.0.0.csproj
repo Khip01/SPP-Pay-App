@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AplikasiPembayaranSpp2._0._0</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ALogin - Copy %282%29 - Copy %282%29.Designer.cs">
+      <DependentUpon>ALogin - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="ALogin - Copy %282%29 - Copy - Copy.Designer.cs">
+      <DependentUpon>ALogin - Copy (2) - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="ALogin - Copy %282%29 - Copy.Designer.cs">
+      <DependentUpon>ALogin - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="ALogin - Copy %282%29.Designer.cs">
+      <DependentUpon>ALogin.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="ALogin - Copy %282%29 - Copy %282%29.resx">
+      <DependentUpon>ALogin - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %282%29 - Copy - Copy.resx">
+      <DependentUpon>ALogin - Copy (2) - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %282%29 - Copy.resx">
+      <DependentUpon>ALogin - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %282%29.resx">
+      <DependentUpon>ALogin.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %283%29 - Copy.resx">
+      <DependentUpon>ALogin - Copy (3).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %283%29.resx">
+      <DependentUpon>ALogin.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy %284%29.resx">
+      <DependentUpon>ALogin.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy %282%29 - Copy.resx">
+      <DependentUpon>ALogin - Copy - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy %282%29.resx">
+      <DependentUpon>ALogin - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy %283%29.resx">
+      <DependentUpon>ALogin - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy - Copy %282%29.resx">
+      <DependentUpon>ALogin - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy - Copy - Copy.resx">
+      <DependentUpon>ALogin - Copy - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy - Copy.resx">
+      <DependentUpon>ALogin - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy - Copy.resx">
+      <DependentUpon>ALogin - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ALogin - Copy.resx">
+      <DependentUpon>ALogin.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

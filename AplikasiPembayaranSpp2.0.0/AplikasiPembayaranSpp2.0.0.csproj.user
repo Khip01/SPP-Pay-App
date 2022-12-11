@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataSiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataPetugas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataSpp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PetugasMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SiswaMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransaksiPembayaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
