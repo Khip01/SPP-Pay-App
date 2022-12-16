@@ -42,3 +42,6 @@ Password : petugas\
 NISN : 1234567890\
 Nama : Aakhif\
 ID SPP : 342\
+
+# Use
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://github.com/Khip01)
