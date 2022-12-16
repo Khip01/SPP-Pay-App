@@ -1,0 +1,11 @@
+ID : 878
+Username : Aakhif
+Password : admin
+
+ID : 676
+Username : Aakhif
+Password : petugas
+
+NISN : 1234567890
+Nama : Aakhif
+ID SPP : 342

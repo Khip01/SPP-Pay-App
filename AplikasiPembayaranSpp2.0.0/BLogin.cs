@@ -47,7 +47,7 @@ namespace AplikasiPembayaranSpp2._0._0
                 else
                 {
                     util.koneksi.Open();
-                    util.cmd = new SqlCommand("SELECT COUNT(*) FROM siswa WHERE nisn = '"+txtNisn.Text+"'", util.koneksi);
+                    util.cmd = new SqlCommand("SELECT COUNT(*) FROM siswa WHERE nisn = '"+txtNisn.Text+"' AND nama = '"+txtNama.Text+"'", util.koneksi);
                     int result = (int)util.cmd.ExecuteScalar();
                     if (result > 0)
                     {
