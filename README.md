@@ -1,27 +1,44 @@
 # SPP-Pay-App
 
-<img src="https://img.shields.io/badge/Type-Web%2FSitus%20web-lightgrey" alt="Type : Web/Situs web"> <img src="https://img.shields.io/badge/-Assignment-red" alt="Assignment">
+![](https://img.shields.io/badge/Type-Desktop%20App%2FAplikasi%20Desktop-purple)
 
 ### Hello👋
 
-Language : English/Indonesia
+Language : Indonesia
 
 ---
 
 Description :\
-Contains the promotional website landing page regarding the offer of collaborative services.
+Contains a desktop application to pay school fees.
 
-Operating system I use: Windows\
+Operating system I use: Windows 11\
 Required Software:
-- VSCode or Other code editor
-- Composer php v8.* or above
-- Browser
+- Visual Studio 2019
+- SQL Server 18
 
 Instructions:
 - Clone this repo or download this repo.
-- Run laravel folder with `php artisan serve`.
+- [IMPORT DATABASE] Look at the database SQL Server from **stuff** folder in this repo **(stuff/db_spp.bacpac)**
+- [IMPORT DATABASE] In SQL Server (Right Click)Databases -> Import Data-tier Application -> and then Import from local disk -> select `db_spp.bacpac` file
+__Warning__ \
+During import database, name the database as `db_spp` **IMPORTANT**
+- [OPEN PROJECT] Open the `.sln` file **(AplikasiPembayaranSpp.2.0.0.sln)**
+- [OPEN PROJECT] In Visual Studio go to **Server Explorer**
+- [CONNECT TO DATABASE] Data Connection -> (Right Click)Add Connection -> Connect to your SQL Server database and select the **Server Name** and connect to database **db_spp**
+- Then enjoy the application.
 
 ---
 
-Reference :\
-  Bootstrap 5.0 [Example code](https://getbootstrap.com/docs/5.0/examples/)
+> __Note__ \
+`Login Page as Administrator`\
+ID : 878\
+Username : Aakhif\
+Password : admin\
+`Login Page as Petugas`\
+ID : 676\
+Username : Aakhif\
+Password : petugas\
+`Login Page as Student`\
+NISN : 1234567890\
+Nama : Aakhif\
+ID SPP : 342\
