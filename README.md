@@ -20,7 +20,7 @@ Instructions:
 - Clone this repo or download this repo.
 - [IMPORT DATABASE] Look at the database SQL Server from **stuff** folder in this repo **(stuff/db_spp.bacpac)**
 - [IMPORT DATABASE] In SQL Server (Right Click)Databases -> Import Data-tier Application -> and then Import from local disk -> select `db_spp.bacpac` file
-> __Warning__ \
+> [!WARNING]
 During import database, name the database as `db_spp` **IMPORTANT**
 - [OPEN PROJECT] Open the `.sln` file **(AplikasiPembayaranSpp.2.0.0.sln)**
 - [OPEN PROJECT] In Visual Studio go to **Server Explorer**
@@ -29,7 +29,7 @@ During import database, name the database as `db_spp` **IMPORTANT**
 
 ---
 
-> __Note__ \
+> [!NOTE]
 `Login Page as Administrator`\
 ID : 878\
 Username : Aakhif\
