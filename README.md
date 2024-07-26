@@ -8,15 +8,20 @@ Language : Indonesia
 
 ---
 
-Description :\
+### Description
 Contains a desktop application to pay school fees.
 
+### Project Overview
+[![Static Badge](https://img.shields.io/badge/view-view?style=for-the-badge&label=click%20to%20see%20this%20project%20overview&labelColor=%2335c914&color=%232ede07)
+](https://khip01.github.io/me/#/creation/details?id=65OK) 
+
+### Requirements
 Operating system I use: Windows 11\
 Required Software:
 - Visual Studio 2019
 - SQL Server 18
 
-Instructions:
+### Instructions
 - Clone this repo or download this repo.
 - [IMPORT DATABASE] Look at the database SQL Server from **stuff** folder in this repo **(stuff/db_spp.bacpac)**
 - [IMPORT DATABASE] In SQL Server (Right Click)Databases -> Import Data-tier Application -> and then Import from local disk -> select `db_spp.bacpac` file
